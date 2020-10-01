@@ -21,13 +21,17 @@ These are plain text files (zipped). Each line contains one lemma/token pair sep
 - Polish (pl) (3,296,232 pairs)
 - Portuguese (pt) (850,264 pairs)
 - Romanian (ro) (314,810 pairs)
+- Russian (ru) (2,657,468 pairs)
 - Scottish Gaelic (gd) (51,624 pairs)
 - Slovak (sk) (858,414 pairs)
 - Slovene (sl) (99,063 pairs)
 - Spanish (es) (497,560 pairs)
 - Swedish (sv) (675,137 pairs)
+- Turkish (tr) (1,337,898 pairs)
 - Ukrainian (uk) (193,703 pairs)
 - Welsh (cy) (359,224 pairs)
+
+UPD: Russian (odict.ru) and Turkish (Zargan) languages data was added
 
 Licence
 
